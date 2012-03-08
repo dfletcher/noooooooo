@@ -1,0 +1,7 @@
+content	noooooooo	content/
+overlay	chrome://browser/content/browser.xul	chrome://noooooooo/content/overlay.xul
+
+locale	noooooooo	en-US	locale/en-US/
+
+skin	noooooooo	classic/1.0	skin/
+style	chrome://global/content/customizeToolbar.xul	chrome://noooooooo/skin/overlay.css

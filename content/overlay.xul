@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://noooooooo/skin/overlay.css" type="text/css"?>
+<!DOCTYPE overlay SYSTEM "chrome://noooooooo/locale/overlay.dtd">
+<overlay id="noooooooo-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <toolbarpalette id="BrowserToolbarPalette">
+    <toolbarbutton id="noooooooo-button" tooltiptext="&noooooooo;" label="&noooooooo;" image="chrome://noooooooo/skin/vader.png" oncommand="new Audio('http://users.content.ytmnd.com/1/c/8/1c8159dfba503b2db576bf48b5b6ef57.wav').play();" />
+  </toolbarpalette>
+</overlay>
